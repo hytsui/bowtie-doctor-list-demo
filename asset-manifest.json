@@ -1,26 +1,22 @@
 {
   "files": {
     "main.css": "/bowtie-doctor-list-demo/static/css/main.5ecd60fb.chunk.css",
-    "main.js": "/bowtie-doctor-list-demo/static/js/main.1a50ff9d.chunk.js",
-    "main.js.map": "/bowtie-doctor-list-demo/static/js/main.1a50ff9d.chunk.js.map",
+    "main.js": "/bowtie-doctor-list-demo/static/js/main.4f4fdf3a.chunk.js",
+    "main.js.map": "/bowtie-doctor-list-demo/static/js/main.4f4fdf3a.chunk.js.map",
     "runtime-main.js": "/bowtie-doctor-list-demo/static/js/runtime-main.9890b263.js",
     "runtime-main.js.map": "/bowtie-doctor-list-demo/static/js/runtime-main.9890b263.js.map",
-    "static/js/2.15443e16.chunk.js": "/bowtie-doctor-list-demo/static/js/2.15443e16.chunk.js",
-    "static/js/2.15443e16.chunk.js.map": "/bowtie-doctor-list-demo/static/js/2.15443e16.chunk.js.map",
+    "static/js/2.defe3e7a.chunk.js": "/bowtie-doctor-list-demo/static/js/2.defe3e7a.chunk.js",
+    "static/js/2.defe3e7a.chunk.js.map": "/bowtie-doctor-list-demo/static/js/2.defe3e7a.chunk.js.map",
     "index.html": "/bowtie-doctor-list-demo/index.html",
-    "precache-manifest.81b6144c8980127286349b3e3fb09a42.js": "/bowtie-doctor-list-demo/precache-manifest.81b6144c8980127286349b3e3fb09a42.js",
+    "precache-manifest.ec262bdc1ad71c2536e615297da84ab9.js": "/bowtie-doctor-list-demo/precache-manifest.ec262bdc1ad71c2536e615297da84ab9.js",
     "service-worker.js": "/bowtie-doctor-list-demo/service-worker.js",
     "static/css/main.5ecd60fb.chunk.css.map": "/bowtie-doctor-list-demo/static/css/main.5ecd60fb.chunk.css.map",
-    "static/js/2.15443e16.chunk.js.LICENSE.txt": "/bowtie-doctor-list-demo/static/js/2.15443e16.chunk.js.LICENSE.txt",
-    "static/media/close-black-18dp.svg": "/bowtie-doctor-list-demo/static/media/close-black-18dp.10ddc4e0.svg",
-    "static/media/location_on-black-18dp.svg": "/bowtie-doctor-list-demo/static/media/location_on-black-18dp.9f46df7f.svg",
-    "static/media/navigate_before-black-18dp.svg": "/bowtie-doctor-list-demo/static/media/navigate_before-black-18dp.ceab4a59.svg",
-    "static/media/navigate_next-black-18dp.svg": "/bowtie-doctor-list-demo/static/media/navigate_next-black-18dp.afc862ec.svg"
+    "static/js/2.defe3e7a.chunk.js.LICENSE.txt": "/bowtie-doctor-list-demo/static/js/2.defe3e7a.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.9890b263.js",
-    "static/js/2.15443e16.chunk.js",
+    "static/js/2.defe3e7a.chunk.js",
     "static/css/main.5ecd60fb.chunk.css",
-    "static/js/main.1a50ff9d.chunk.js"
+    "static/js/main.4f4fdf3a.chunk.js"
   ]
 }
